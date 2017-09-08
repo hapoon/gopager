@@ -122,6 +122,4 @@ func TestPaginater(t *testing.T) {
 		}
 		idx++
 	}
-
-	t.Fatal()
 }
