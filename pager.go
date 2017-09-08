@@ -1,3 +1,4 @@
+// Package gopager provides pagination for slices.
 package gopager
 
 import "reflect"
