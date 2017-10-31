@@ -3,6 +3,7 @@ gopager
 [![GoDoc](https://godoc.org/github.com/hapoon/gopager?status.svg)](https://godoc.org/github.com/hapoon/gopager)
 [![Build Status](https://travis-ci.org/hapoon/gopager.svg?branch=master)](https://travis-ci.org/hapoon/gopager)
 [![Coverage Status](https://coveralls.io/repos/github/hapoon/gopager/badge.svg?branch=master)](https://coveralls.io/github/hapoon/gopager?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hapoon/gopager)](https://goreportcard.com/report/github.com/hapoon/gopager)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/hapoon/gopager/master/LICENSE)
 
 `gopager` is a library for pagination.
